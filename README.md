@@ -75,11 +75,16 @@
 
 ### 3PL美国Tracking系统
 项目背景 : 该项目是为了美国3PL公司完成货物跟踪信息管理业务,而开发使用的
+
 软件环境 : 后端：SpringBoot , mybatis 前端：HTML , JS , element UI
+
 开发工具：IntelliJ IDEA , SQLyog , PostMan等
+
 使用技术 : 非关系型数据库(mongodb),单元测试(junit),json格式化(fastjson),工具集(hutool),UI(element),代码简化(lombok),定时任务(quartz),权限管理(shiro),验证码(kaptcha)......
+
 系统功能 :
 USA tracking,mawb management,系统管理,资源管理,角色管理,页面管理,用户权限管理,字典表管理,定时任务管理,菜单管理
+
 责任描述：
 1.负责系统框架的搭建。
 2.负责系统功能的开发。
@@ -91,12 +96,17 @@ USA tracking,mawb management,系统管理,资源管理,角色管理,页面管理
 ### 欧姆龙测试管理系统
 
 项目背景 :  该项目包含了测量员系统,项目管理员系统,是为了欧姆龙集团完成元器件测试管理业务,而开发使用的
+
 软件环境 : 后端：SpringBoot , mybatis 前端：HTML , JS , element UI
+
 开发工具：IntelliJ IDEA , SQLyog , PostMan等
+
 使用技术 :项目管理(maven),单元测试(junit),切面编程(aop),缓存(redis),代码简化(lombok),定时任务(quartz),excel处理(poi),消息中间件(rabbitMq),权限管理(shiro),UI(element),json格式化(fastjson),工具集(hutool),验证码(kaptcha),报表工具(jasperreports),token(jwt),密码(security)......
+
 系统功能 :
 测量员系统(项目池,我的项目,接收单管理,生成台账)
 项目管理员系统(系统管理,用户管理,角色管理,日志管理)
+
 责任描述：
 1.负责需求的接收，转化为系统功能实现。
 2.负责项目框架的搭建部署，任务分发。
