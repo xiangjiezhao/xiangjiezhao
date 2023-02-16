@@ -24,8 +24,11 @@
 
 ### 物联网聚合服务平台
 项目背景：该项目是为管理公司产品“云空开”智能硬件而开发使用的，采用电力行业协议1376.1进行与硬件间的通讯。项目包含核心管理平台，综合前置平台，APP前置平台，IOS，安卓，小程序；核心管理平台负责pc端的管理/后台业务处理，综合前置平台负责与智能网关实现硬件通讯/平台交互，APP前置平台实现移动端的交互。
+
 开发工具：IntelliJ IDEA , SQLyog , PostMan等
+
 使用技术 : 消息中间件(rabbitMq)，高德地图，图表(echarts)，极光推送，缓存(redis)，项目管理(maven)，版本控制(git)，单元测试(junit)，切面编程(aop)，代码简化(lombok)，定时任务(go-cron)，权限管理(shiro)，负载均衡(nginx)，反射(reflection)，json格式化(fastjson)，工具集(hutool)，excel处理(poi)，UI(element)，文档管理(svn)，验证码(kaptcha)，接口文档(swagger)......
+
 责任描述：
 1.负责核心平台的搭建开发维护。
 2.负责综合前置平台的搭建开发维护。
