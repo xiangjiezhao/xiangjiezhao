@@ -13,7 +13,7 @@
  - 工作年限：5年
  - Github：http://github.com/xiangjiezhao 
 
- - 期望职位：Java 高级程序员，系统架构师
+ - 期望职位：Java 高级程序员
  - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
  - 期望城市：郑州
 
