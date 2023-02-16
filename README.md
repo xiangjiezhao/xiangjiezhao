@@ -94,13 +94,16 @@ USA tracking,mawb management,系统管理,资源管理,角色管理,页面管理
     
 # 技能清单
 
-以下均为我熟练使用的技能
+以下为我熟练使用的技能
 
 - Web开发：Java
 - 后端框架：Spring Boot/Eclipse Vert.x
 - 数据库相关：MySQL/MongoDb
-- 版本管理、文档和自动化部署工具：Svn/Git/Maven
-- 单元测试：JUnit
+- 版本管理、文档和自动化部署工具：Git/Svn/Maven
+- 消息中间件：RabitMq/极光推送
+- 代理、负载均衡：Nginx
+- 服务器维护：FinalShell
+- 等等
       
 ---      
 # 致谢
